@@ -1,6 +1,6 @@
 
 # StudentPerformanceTracker
-![Screenshot (100)](https://github.com/Nkalyankumar/StudentPerformanceTracker-unITy-Squad/assets/102470230/a23a2f6e-f3a6-43a1-b17b-db074885c3ec)
+![Screenshot (100)](https://github.com/SUdaykiran/Student_Performance_Tracker)
 
 StudentPerformanceTracker Project is a comprehensive system designed to manage and analyze student data. It provides functionalities for students, admins, and super admins to efficiently handle various tasks related to student information. This README file serves as a guide to understand the project and its components.
 # Project Description
@@ -24,7 +24,7 @@ StudentPerformanceTracker Project aims to streamline the process of managing stu
 To install and run the StudentPerformanceTracker Project, follow these steps:
 1.Clone the project repository from GitHub:
 
-git clone https://github.com/Nkalyankumar/StudentPerformanceTracker-unITy-Squad
+git clone https://github.com/SUdaykiran/Student_Performance_Tracker
 
 2.Install the required dependencies. Ensure you have Python and pip installed. Then, navigate to the project directory and run:
 
