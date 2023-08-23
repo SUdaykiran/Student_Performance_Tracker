@@ -24,7 +24,7 @@ StudentPerformanceTracker Project aims to streamline the process of managing stu
 To install and run the StudentPerformanceTracker Project, follow these steps:
 1.Clone the project repository from GitHub:
 
-git clone https://github.com/Nkalyankumar/StudentPerformanceTracker-unITy-Squad
+git clone https://github.com/SUdaykiran/Student_Performance_Tracker
 
 2.Install the required dependencies. Ensure you have Python and pip installed. Then, navigate to the project directory and run:
 
